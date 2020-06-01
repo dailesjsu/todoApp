@@ -2,7 +2,8 @@
 It is a basic todo App
 
 
-## Idea: It is a basic todo Web App, which allows user to add todo tasks and delete them. 
+## Idea: 
+It is a basic todo Web App, which allows user to add todo tasks and delete them. 
 
 
 ## Requirement: 
